@@ -1,0 +1,4 @@
+# TabNaviMVPDemo
+一个MVP架构的Demo，主要页面框架采用了BottomNavigationBar以及ViewPager
+
+没有Copyright，可以随意使用。
